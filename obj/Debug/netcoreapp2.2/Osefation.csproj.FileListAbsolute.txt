@@ -1,0 +1,11 @@
+/home/adriaothomas/VisualStudioCode/csharp/Osefation/obj/Debug/netcoreapp2.2/Osefation.csprojAssemblyReference.cache
+/home/adriaothomas/VisualStudioCode/csharp/Osefation/obj/Debug/netcoreapp2.2/Osefation.csproj.CoreCompileInputs.cache
+/home/adriaothomas/VisualStudioCode/csharp/Osefation/obj/Debug/netcoreapp2.2/Osefation.AssemblyInfoInputs.cache
+/home/adriaothomas/VisualStudioCode/csharp/Osefation/obj/Debug/netcoreapp2.2/Osefation.AssemblyInfo.cs
+/home/adriaothomas/VisualStudioCode/csharp/Osefation/bin/Debug/netcoreapp2.2/Osefation.deps.json
+/home/adriaothomas/VisualStudioCode/csharp/Osefation/bin/Debug/netcoreapp2.2/Osefation.runtimeconfig.json
+/home/adriaothomas/VisualStudioCode/csharp/Osefation/bin/Debug/netcoreapp2.2/Osefation.runtimeconfig.dev.json
+/home/adriaothomas/VisualStudioCode/csharp/Osefation/bin/Debug/netcoreapp2.2/Osefation.dll
+/home/adriaothomas/VisualStudioCode/csharp/Osefation/bin/Debug/netcoreapp2.2/Osefation.pdb
+/home/adriaothomas/VisualStudioCode/csharp/Osefation/obj/Debug/netcoreapp2.2/Osefation.dll
+/home/adriaothomas/VisualStudioCode/csharp/Osefation/obj/Debug/netcoreapp2.2/Osefation.pdb
